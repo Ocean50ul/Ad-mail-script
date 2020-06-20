@@ -1,6 +1,6 @@
 # Parsing local ad board.
 Lorem ipsum.
 # Parsing another local ad board.
-lorem ipsum
+Lorem ipsum
 # Constructing and sending an e-mail.
 Lorem Ipsum
